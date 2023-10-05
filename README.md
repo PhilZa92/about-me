@@ -1,5 +1,7 @@
 # about-me 🌵
-#**Philipp Zacharias** #_Alter: 31_
+#Philipp Zacharias
+
+_Alter: 31_
 
 my favourite color _green_ 🟢
 
